@@ -1,0 +1,30 @@
+{
+  "name": "tater-bomb",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xue1206/tater-bomb.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "TaterBomb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xue1206/tater-bomb/issues"
+  },
+  "homepage": "https://github.com/xue1206/tater-bomb#readme",
+  "devDependencies": {
+    "@swc/cli": "^0.1.55",
+    "@swc/core": "^1.2.133",
+    "chokidar": "^3.5.3"
+  }
+}
